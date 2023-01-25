@@ -1,0 +1,10 @@
+{
+  "LOGIN_MODAL_TITLE": "وارد شوید",
+  "LOGIN_MODAL_FIRST_LINE": "برای استفاده از امکانات Orading، باید ابتدا وارد شوید یا ثبت نام کنید.",
+  "LOGIN_MODAL_SECOND_LINE": "ثبت نام رایگان است.",
+  "LOGIN_MODAL_THIRD_LINE": " در صورتی که هنوز حساب کاربری ندارید, ابتدا ثبت نام کنید تا بتوانید از همه امکانات Orading استفاده کنید ",
+
+  "LOGIN_MODAL_LOG_IN": "وارد شوید",
+  "LOGIN_MODAL_SIGN_UP": "ثبت نام !",
+  "LOGIN_MODAL_HAVE_ACCOUNT": "هنوز اکانت ندارید؟"
+}
