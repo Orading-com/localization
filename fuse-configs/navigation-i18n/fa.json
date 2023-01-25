@@ -1,8 +1,8 @@
 {
-  "MARKETS": "بازار",
-  "TRADE": "معاملات",
-  "CONVERT": "تبدیل",
-  "CLASSIC": "کلاسیک",
-  "ADVANCED": "پیشرفته",
-  "FUTURES": "فیوچرز"
+  "MARKETS": "Markets",
+  "TRADE": "Trade",
+  "CONVERT": "Convert",
+  "CLASSIC": "Classic",
+  "ADVANCED": "Advanced",
+  "FUTURES": "Futures"
 }
