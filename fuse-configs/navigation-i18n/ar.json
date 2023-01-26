@@ -1,8 +1,8 @@
 {
-  "MARKETS": "Markets",
-  "TRADE": "Trade",
-  "CONVERT": "Convert",
-  "CLASSIC": "Classic",
-  "ADVANCED": "Advanced",
-  "FUTURES": "Futures"
+  "MARKETS": "الأسواق",
+  "TRADE": "تداول",
+  "CONVERT": "تحويل العملات",
+  "CLASSIC": "كلاسيك",
+  "ADVANCED": "مُتقدم",
+  "FUTURES": "العقود الأجلة"
 }
